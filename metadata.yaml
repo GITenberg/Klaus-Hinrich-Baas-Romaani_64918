@@ -1,0 +1,38 @@
+_repo: Klaus-Hinrich-Baas-Romaani_64918
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lehtonen, Joel
+    birthdate: 1881
+    deathdate: 1934
+    gutenberg_agent_id: '5996'
+    url: http://www.gutenberg.org/2009/agents/5996
+    wikipedia:
+    - https://fi.wikipedia.org/wiki/Joel_Lehtonen
+    - https://en.wikipedia.org/wiki/Joel_Lehtonen
+creator:
+  author:
+    agent_name: Frenssen, Gustav
+    birthdate: 1863
+    deathdate: 1945
+    gutenberg_agent_id: '46029'
+    url: http://www.gutenberg.org/2009/agents/46029
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Gustav_Frenssen
+    - https://en.wikipedia.org/wiki/Gustav_Frenssen
+    - https://fi.wikipedia.org/wiki/Gustav_Frenssen
+description: ''
+gutenberg_issued: '2021-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64918'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German fiction -- Translations into Finnish'
+- !lcc 'PT'
+- GITenberg
+title: 'Klaus Hinrich Baas: Romaani'
+url: http://www.gutenberg.org/ebooks/64918
