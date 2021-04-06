@@ -10,6 +10,9 @@ contributor:
     wikipedia:
     - https://fi.wikipedia.org/wiki/Joel_Lehtonen
     - https://en.wikipedia.org/wiki/Joel_Lehtonen
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Frenssen, Gustav
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Gustav_Frenssen
     - https://fi.wikipedia.org/wiki/Gustav_Frenssen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64918#Klaus-Hinrich-Baas-Romaani
 gutenberg_issued: '2021-03-24'
 gutenberg_type: Text
 identifiers:
